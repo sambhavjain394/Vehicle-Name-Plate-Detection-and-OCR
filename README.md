@@ -1,5 +1,5 @@
 # Vehicle-Name-Plate-Detection-and-OCR
-###### (Code may contain bug)
+###### (Code may have contain bugs)
 
 The Model can be broken down into 2 parts:
 
