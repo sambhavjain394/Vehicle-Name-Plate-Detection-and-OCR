@@ -1,7 +1,7 @@
-## Vehicle-Name-Plate-Detection-and-OCR
+# Vehicle-Name-Plate-Detection-and-OCR
 
 The Model can be broken down into 2 parts:
-# 1. Licence Plate detection and segmentation of characters
+## 1. Licence Plate detection and segmentation of characters
 
 
 The first part of Licence Plate Detection is completed using YOLOv3 with darknet backbone. I used the dataset provided by TCS i.e. 237 images of cars and some bikes at different angle
@@ -26,7 +26,7 @@ Model Weights : https://drive.google.com/file/d/1qAof2POtYAInDYI7XyS4O4m5V4ByMq-
  For the segmentation part I have simply used the OpenCV Library to convert into different forms and my Closed Component Analysis to segment the characters is hard-coded.
 
 
-# 2. Character Recognition
+## 2. Character Recognition
 
 
 And at last for the Character prediction, I have used a pre-trained model on the english alphabets in different fonts and the numbers which just predicts the character present on the Licence Plate.
@@ -34,3 +34,4 @@ And at last for the Character prediction, I have used a pre-trained model on the
 
  For the improvement in the accuracy of the model I checked the presence of “IND” substring in the string formed and removed it.
 
+##### **Apache Licence**
