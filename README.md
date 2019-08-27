@@ -1,6 +1,8 @@
 # Vehicle-Name-Plate-Detection-and-OCR
+###### (Code may contain bug)
 
 The Model can be broken down into 2 parts:
+
 ## 1. Licence Plate detection and segmentation of characters
 
 
