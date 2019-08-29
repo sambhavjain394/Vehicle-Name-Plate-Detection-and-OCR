@@ -6,7 +6,7 @@ The Model can be broken down into 2 parts:
 ## 1. Licence Plate detection and segmentation of characters
 
 
-The first part of Licence Plate Detection is completed using YOLOv3 with darknet backbone. I used the dataset provided by TCS i.e. 237 images of cars and some bikes at different angle
+The first part of Licence Plate Detection is completed using YOLOv3 with darknet backbone. I used the dataset provided by TCS i.e. 237 images of cars and some bikes at different angles.
 
 For providing the bounding boxes and annotations I have used LabelImg which is also available in github. Steps involved in bulding dataset:
 
