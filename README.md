@@ -1,6 +1,10 @@
 # Vehicle-Name-Plate-Detection-and-OCR
 ###### (Code may have contain bugs)
 
+FOR COMPLETE DETAILS REFER TO THIS LINK:
+https://docs.google.com/document/d/1g59nSdaVmuzD7d7yV5HkR6v3xfKdxnw5m-grqW7Lkto/edit?usp=sharing
+
+
 The Model can be broken down into 2 parts:
 
 ## 1. Licence Plate detection and segmentation of characters
