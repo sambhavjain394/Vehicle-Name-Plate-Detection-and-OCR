@@ -1,5 +1,5 @@
 # Vehicle-Name-Plate-Detection-and-OCR
-###### (Code may have contain bugs)
+###### (Code may contain bugs)
 
 FOR COMPLETE DETAILS REFER TO THIS LINK:
 https://docs.google.com/document/d/1g59nSdaVmuzD7d7yV5HkR6v3xfKdxnw5m-grqW7Lkto/edit?usp=sharing
